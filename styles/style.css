@@ -26,3 +26,8 @@ ul, ol {
     width: 60%;
     border: 1px solid grey;
 }
+
+img {
+    width: 300px;
+    height: auto;
+}
