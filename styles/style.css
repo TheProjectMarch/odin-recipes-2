@@ -32,3 +32,8 @@ img {
     width: 300px;
     height: auto;
 }
+
+.steps-list > li, 
+.ingredients-list > li {
+    font-style: italic;
+}
