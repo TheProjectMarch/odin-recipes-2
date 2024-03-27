@@ -22,7 +22,8 @@ h3 {
     color: rgb(23,34,56);
 }
 
-ul, ol {
+.ingredients-list,
+.steps-list {
     width: 60%;
     border: 1px solid grey;
 }
